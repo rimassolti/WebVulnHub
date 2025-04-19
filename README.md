@@ -79,4 +79,4 @@ This tool is for educational purposes only. Always ensure you have permission to
 
 --- 
 
-This `README.md` provides a clear and concise description of your tool, its features, and how to use it. You can customize it further to match your specific needs.
+This `README.md` provides a clear and concise description of this tool, its features, and how to use it. 
